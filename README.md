@@ -38,7 +38,8 @@
 
 ## 📌 My Recent Pull Requests
 
-- [fix/er-diagram-back-forward-state – PR #1091](https://github.com/liam-hq/liam/pull/1091)
+- [![PR #1091 Merged](https://img.shields.io/badge/PR%20%231091-Merged-brightgreen?style=flat-square&logo=github)](https://github.com/liam-hq/liam/pull/1091)
+
 
 
 <!--
