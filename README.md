@@ -38,7 +38,7 @@
 
 ## 📌 My Recent Pull Requests
 
-- [Fix bug in login component – PR #42](https://github.com/liam-hq/liam/pull/1091)
+- [fix/er-diagram-back-forward-state – PR #1091](https://github.com/liam-hq/liam/pull/1091)
 
 
 <!--
