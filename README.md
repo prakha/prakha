@@ -39,6 +39,7 @@
 ## 📌 My Recent Pull Requests
 
 - [![PR #1091 Merged](https://img.shields.io/badge/PR%20%231091-Merged-brightgreen?style=flat-square&logo=github)](https://github.com/liam-hq/liam/pull/1091)
+- [![PR #1039 Merged](https://img.shields.io/badge/PR%20%231091-Merged-brightgreen?style=flat-square&logo=github)](https://github.com/liam-hq/liam/pull/1039)
 
 
 
